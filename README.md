@@ -1,5 +1,6 @@
 # Lab 2: Second Activity: Translating Python code to Java code
 
+ADDING TEXT TO TEST GIT PULL
 Note: Your homework this week in the week2git assignment on MarkUs will require you to write similar code, so
 do make sure to work through this lab activity to make the homework easier after.
 
